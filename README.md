@@ -14,21 +14,7 @@
 
 <div align="center">
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
-  <!-- <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=saymonbot" /></p> -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="145.2" height="20">
-    <linearGradient id="b" x2="0" y2="100%">
-        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
-        <stop offset="1" stop-opacity=".1"/>
-    </linearGradient>
-    <mask id="a">
-        <rect width="145.2" height="20" rx="3" fill="#fff"/>
-    </mask>
-    <g mask="url(#a)">
-        <rect width="79.2" height="20" fill="#555"/>
-        <rect x="79.2" width="66" height="20" fill="#007ec6"/>
-        <rect width="145.2" height="20" fill="url(#b)"/>
-    </g>
-</svg>
+    <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=saymonbot" /></p>
   <br>
 </div>
 
