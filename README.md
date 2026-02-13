@@ -28,12 +28,6 @@
         <rect x="79.2" width="66" height="20" fill="#007ec6"/>
         <rect width="145.2" height="20" fill="url(#b)"/>
     </g>
-    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
-        <text x="40.6" y="15" fill="#010101" fill-opacity=".3">Profile views</text>
-        <text x="40.6" y="14">Profile views</text>
-        <text x="111.2" y="15" fill="#010101" fill-opacity=".3">1,145,645</text>
-        <text x="111.2" y="14">1,145,645</text>
-    </g>
 </svg>
   <br>
 </div>
