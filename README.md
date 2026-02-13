@@ -1,6 +1,6 @@
 
 <!-- Parte superior da página -->
-https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=header&reversal=false&fontAlign=0&fontAlignY=0&descAlign=100&descAlignY=100
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=header&reversal=false&fontAlign=0&fontAlignY=0&descAlign=100&descAlignY=100"/>
 
 ---
 <div align="center">
