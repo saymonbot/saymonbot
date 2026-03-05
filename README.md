@@ -3,21 +3,19 @@
 
 <div align="center">
   
-## Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Saymon Botelho
+## Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="22px"> Eu sou Saymon Botelho
   Desenvolvedor Java<br>
   Bacharel em Ciências da Computação pela UNISUL<br>
   Técnico Administrativo da Secretaria de Justiça de Santa Catarina <br>
 </div>
 
 <div align="center">
-  <br>
     <p align="center">
       <b>Quantidade de visitantes</b>
     </p>  
     <p align="center">
       <img align="center" src="https://komarev.com/ghpvc/?username=saymonbot" />
     </p>
-  <br>
 </div>
 
 <div align="center"> 
@@ -30,9 +28,7 @@
 </div>
 
 <div align="center">
-  <br>
    <img src="https://streak-stats.demolab.com?user=saymonbot&theme=transparent&hide_border=true&border_radius=0&exclude_days=Sun%2CSat)" height="156" alt="streak graph"/>
-  </br>
 </div>
 
 <!-- Parte inferior da página -->
